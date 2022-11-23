@@ -13,6 +13,7 @@ function toggleMenu() {
   } else {
     menu.classList.add('showMenu');
     closeIcon.style.display = 'block';
+    // closeIcon.style.display = 'active';
     closeIcon.style.color = 'white';
     hamburger.style.background = 'none';
     menuIcon.style.display = 'none';
@@ -24,5 +25,6 @@ hamburger.addEventListener('click', toggleMenu);
 menuItems.forEach(
   (menuItem) => {
     menuItem.addEventListener('click', toggleMenu);
+    // menuItem.addEventListener('click', toggleMenu);
   },
 );
