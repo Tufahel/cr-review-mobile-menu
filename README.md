@@ -6,7 +6,7 @@ This is a portfolio work experience section of Tufahel Ahmed only for mobile ver
 
 # Live page link
 
-- [Live Page](https://tufahel.github.io/portfolio-mobile-version/)
+- [Live Page](https://tufahel.github.io/cr-review-mobile-menu/)
 
 # Getting Started
 To get a local copy up and running follow these simple example steps.
